@@ -1,1 +1,1 @@
-# dog_or_cat_pytorch_model
+# Dog-or-Cat_pytorch_model
