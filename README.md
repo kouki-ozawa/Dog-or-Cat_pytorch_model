@@ -4,6 +4,6 @@
 Pythorchを用いた画像判別モデル
 
 ## 開発
-下記リポジトリで開発中
+こちらのリポジトリでチーム開発中
 https://github.com/TsubasaTommy/dogorcat
 精度改善中
